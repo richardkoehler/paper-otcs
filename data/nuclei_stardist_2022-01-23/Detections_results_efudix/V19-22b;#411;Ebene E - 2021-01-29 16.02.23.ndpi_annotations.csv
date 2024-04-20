@@ -1,0 +1,18 @@
+Image,Name,Class,Parent,ROI,Centroid X µm,Centroid Y µm,Num Detections,Area µm^2,Perimeter µm
+V19-22b;#411;Ebene E - 2021-01-29 16.02.23.ndpi,PathAnnotationObject,,Image,Geometry,22885.6,3822.5,755,143053.2,8983
+V19-22b;#411;Ebene E - 2021-01-29 16.02.23.ndpi,PathAnnotationObject,,Image,Geometry,27450.4,4501.1,168,38313.5,1964.5
+V19-22b;#411;Ebene E - 2021-01-29 16.02.23.ndpi,PathAnnotationObject,,Image,Geometry,26287.1,4193,195,32341.2,2139.3
+V19-22b;#411;Ebene E - 2021-01-29 16.02.23.ndpi,PathAnnotationObject,,Image,Geometry,27245.5,4197.6,133,17430.5,1348.6
+V19-22b;#411;Ebene E - 2021-01-29 16.02.23.ndpi,PathAnnotationObject,,Image,Geometry,25587.1,4135.2,90,15082,1155
+V19-22b;#411;Ebene E - 2021-01-29 16.02.23.ndpi,ColorDeconvolution,ColorDeconvolution,Image,Rectangle,27242.3,4205.8,80,11832,460.84
+V19-22b;#411;Ebene E - 2021-01-29 16.02.23.ndpi,PathAnnotationObject,,Image,Polygon,25214.2,4095.9,54,8606.4,542.85
+V19-22b;#411;Ebene E - 2021-01-29 16.02.23.ndpi,PathAnnotationObject,,Image,Polygon,28248.1,4749.6,45,6807.5,680.42
+V19-22b;#411;Ebene E - 2021-01-29 16.02.23.ndpi,PathAnnotationObject,,Image,Polygon,24134.1,3607.1,61,6189,528.25
+V19-22b;#411;Ebene E - 2021-01-29 16.02.23.ndpi,PathAnnotationObject,,Image,Polygon,24765,3711.3,33,5595.9,407.01
+V19-22b;#411;Ebene E - 2021-01-29 16.02.23.ndpi,PathAnnotationObject,,Image,Polygon,23080,3395.6,65,5481.2,444.82
+V19-22b;#411;Ebene E - 2021-01-29 16.02.23.ndpi,PathAnnotationObject,,Image,Polygon,24974.3,4085.1,21,4935.2,571.38
+V19-22b;#411;Ebene E - 2021-01-29 16.02.23.ndpi,PathAnnotationObject,,Image,Polygon,26796.1,4293.9,24,4753.5,359.44
+V19-22b;#411;Ebene E - 2021-01-29 16.02.23.ndpi,PathAnnotationObject,,Image,Polygon,26953.1,4363.3,31,4615.7,336.29
+V19-22b;#411;Ebene E - 2021-01-29 16.02.23.ndpi,PathAnnotationObject,,Image,Polygon,25489.3,3822.7,24,4019.1,449.32
+V19-22b;#411;Ebene E - 2021-01-29 16.02.23.ndpi,PathAnnotationObject,,Image,Polygon,21531.2,3309.3,27,2723.1,313.95
+V19-22b;#411;Ebene E - 2021-01-29 16.02.23.ndpi,PathAnnotationObject,,Image,Polygon,22990.6,3393.8,9,521.51,94.71

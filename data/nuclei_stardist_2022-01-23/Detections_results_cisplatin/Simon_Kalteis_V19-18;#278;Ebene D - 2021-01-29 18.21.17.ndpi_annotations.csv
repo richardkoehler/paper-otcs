@@ -1,0 +1,3 @@
+Image,Name,Class,Parent,ROI,Centroid X µm,Centroid Y µm,Num Detections,Area µm^2,Perimeter µm
+Simon_Kalteis_V19-18;#278;Ebene D - 2021-01-29 18.21.17.ndpi,PathAnnotationObject,,Image,Geometry,4634.7,1954.5,6769,677575,19824.6
+Simon_Kalteis_V19-18;#278;Ebene D - 2021-01-29 18.21.17.ndpi,ColorDeconvolution,ColorDeconvolution,Image,Rectangle,4051.2,1932.1,81,16346.3,512.48

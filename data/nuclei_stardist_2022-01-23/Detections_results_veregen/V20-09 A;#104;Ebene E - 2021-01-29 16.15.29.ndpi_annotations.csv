@@ -1,0 +1,18 @@
+Image,Name,Class,Parent,ROI,Centroid X µm,Centroid Y µm,Num Detections,Area µm^2,Perimeter µm
+V20-09 A;#104;Ebene E - 2021-01-29 16.15.29.ndpi,PathAnnotationObject,,Image,Polygon,29852.8,1418.6,17,4234.8,502.22
+V20-09 A;#104;Ebene E - 2021-01-29 16.15.29.ndpi,PathAnnotationObject,,Image,Polygon,29224.9,1345.6,46,13834.3,698.68
+V20-09 A;#104;Ebene E - 2021-01-29 16.15.29.ndpi,PathAnnotationObject,,Image,Polygon,28919.3,1344.3,40,10490.9,558.87
+V20-09 A;#104;Ebene E - 2021-01-29 16.15.29.ndpi,PathAnnotationObject,,Image,Polygon,27297.1,1720.1,427,47599.9,1948.6
+V20-09 A;#104;Ebene E - 2021-01-29 16.15.29.ndpi,PathAnnotationObject,,Image,Geometry,26748.8,1856,234,27799,1363.1
+V20-09 A;#104;Ebene E - 2021-01-29 16.15.29.ndpi,PathAnnotationObject,,Image,Polygon,24229.7,1953.9,382,37784.5,1105.2
+V20-09 A;#104;Ebene E - 2021-01-29 16.15.29.ndpi,PathAnnotationObject,,Image,Geometry,23873.5,1926.4,282,30986.5,928.17
+V20-09 A;#104;Ebene E - 2021-01-29 16.15.29.ndpi,PathAnnotationObject,,Image,Geometry,23481.5,1866.4,195,24720.7,1202.7
+V20-09 A;#104;Ebene E - 2021-01-29 16.15.29.ndpi,PathAnnotationObject,,Image,Polygon,22157.7,1636.5,53,10520.8,849.99
+V20-09 A;#104;Ebene E - 2021-01-29 16.15.29.ndpi,PathAnnotationObject,,Image,Polygon,22590.3,1640.7,384,37709.6,1266.9
+V20-09 A;#104;Ebene E - 2021-01-29 16.15.29.ndpi,PathAnnotationObject,,Image,Geometry,22951.6,1761.9,292,40437.2,1731
+V20-09 A;#104;Ebene E - 2021-01-29 16.15.29.ndpi,PathAnnotationObject,,Image,Geometry,25169.9,1963.6,980,101527.9,3431.4
+V20-09 A;#104;Ebene E - 2021-01-29 16.15.29.ndpi,PathAnnotationObject,,Image,Geometry,26161.9,1947.3,909,93601.9,4064.3
+V20-09 A;#104;Ebene E - 2021-01-29 16.15.29.ndpi,PathAnnotationObject,,Image,Geometry,27753.5,1643.2,447,47643.1,1037.4
+V20-09 A;#104;Ebene E - 2021-01-29 16.15.29.ndpi,PathAnnotationObject,,Image,Polygon,28379.9,1509.3,2543,229020.6,2757.8
+V20-09 A;#104;Ebene E - 2021-01-29 16.15.29.ndpi,PathAnnotationObject,,Image,Polygon,29557.8,1366.5,44,11213.6,929.48
+V20-09 A;#104;Ebene E - 2021-01-29 16.15.29.ndpi,ColorDeconvolution,ColorDeconvolution,Image,Rectangle,24999.8,1922.2,74,8399.4,367.26

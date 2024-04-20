@@ -1,0 +1,24 @@
+Image,Name,Class,Parent,ROI,Centroid X µm,Centroid Y µm,Num Detections,Area µm^2,Perimeter µm
+V19-22b;#415;Ebene E - 2021-01-29 12.15.31.ndpi,PathAnnotationObject,,Image,Geometry,17014.7,3453.4,112,18156.2,1331.1
+V19-22b;#415;Ebene E - 2021-01-29 12.15.31.ndpi,PathAnnotationObject,,Image,Polygon,17854,3361.4,87,12457.2,539.16
+V19-22b;#415;Ebene E - 2021-01-29 12.15.31.ndpi,PathAnnotationObject,,Image,Polygon,20293.3,3893.7,25,11663.8,657.71
+V19-22b;#415;Ebene E - 2021-01-29 12.15.31.ndpi,PathAnnotationObject,,Image,Polygon,17918.6,3940.4,66,10589.2,1056.9
+V19-22b;#415;Ebene E - 2021-01-29 12.15.31.ndpi,PathAnnotationObject,,Image,Polygon,20105.1,3940.2,27,10060.6,489.01
+V19-22b;#415;Ebene E - 2021-01-29 12.15.31.ndpi,PathAnnotationObject,,Image,Polygon,18303.9,3941.1,21,9573.6,680.66
+V19-22b;#415;Ebene E - 2021-01-29 12.15.31.ndpi,PathAnnotationObject,,Image,Polygon,19439.4,3877.9,17,8887.1,480.31
+V19-22b;#415;Ebene E - 2021-01-29 12.15.31.ndpi,PathAnnotationObject,,Image,Polygon,19253.4,3882.7,16,8479.1,450.65
+V19-22b;#415;Ebene E - 2021-01-29 12.15.31.ndpi,ColorDeconvolution,ColorDeconvolution,Image,Rectangle,19442.6,3873.3,15,8058.3,376.97
+V19-22b;#415;Ebene E - 2021-01-29 12.15.31.ndpi,PathAnnotationObject,,Image,Polygon,18525.4,3935.5,13,7341.6,390.74
+V19-22b;#415;Ebene E - 2021-01-29 12.15.31.ndpi,PathAnnotationObject,,Image,Polygon,19605,3866.8,20,7190.9,398.23
+V19-22b;#415;Ebene E - 2021-01-29 12.15.31.ndpi,PathAnnotationObject,,Image,Polygon,19796.8,3895.6,19,6995.9,375.92
+V19-22b;#415;Ebene E - 2021-01-29 12.15.31.ndpi,PathAnnotationObject,,Image,Geometry,20236.4,3504.2,41,6617.5,724.13
+V19-22b;#415;Ebene E - 2021-01-29 12.15.31.ndpi,PathAnnotationObject,,Image,Geometry,17743.3,3957.8,16,6392.4,773.2
+V19-22b;#415;Ebene E - 2021-01-29 12.15.31.ndpi,PathAnnotationObject,,Image,Polygon,18694.5,3928.4,19,5526.2,584.3
+V19-22b;#415;Ebene E - 2021-01-29 12.15.31.ndpi,PathAnnotationObject,,Image,Polygon,19086.7,3884.1,7,4732.9,349.92
+V19-22b;#415;Ebene E - 2021-01-29 12.15.31.ndpi,PathAnnotationObject,,Image,Polygon,19947.3,3912.3,15,4379,328.98
+V19-22b;#415;Ebene E - 2021-01-29 12.15.31.ndpi,PathAnnotationObject,,Image,Polygon,18947.7,3886.6,4,1830.4,282.59
+V19-22b;#415;Ebene E - 2021-01-29 12.15.31.ndpi,PathAnnotationObject,,Image,Polygon,18823.9,3902.1,5,1487.2,154.56
+V19-22b;#415;Ebene E - 2021-01-29 12.15.31.ndpi,PathAnnotationObject,,Image,Polygon,22286.6,4156.2,8,1458.7,269.76
+V19-22b;#415;Ebene E - 2021-01-29 12.15.31.ndpi,PathAnnotationObject,,Image,Polygon,18981.9,3369.7,0,616.17,118.55
+V19-22b;#415;Ebene E - 2021-01-29 12.15.31.ndpi,PathAnnotationObject,,Image,Polygon,20784.4,3644.6,3,202.76,77.39
+V19-22b;#415;Ebene E - 2021-01-29 12.15.31.ndpi,PathAnnotationObject,,Image,Polygon,21700.1,3986.6,4,148.91,61.06

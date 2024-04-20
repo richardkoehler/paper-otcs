@@ -1,0 +1,24 @@
+Image,Name,Class,Parent,ROI,Centroid X µm,Centroid Y µm,Num Detections,Area µm^2,Perimeter µm
+Simon_Kalteis_V19-18;#298;Ebene D - 2021-01-29 19.05.32.ndpi,ColorDeconvolution,ColorDeconvolution,Image,Rectangle,7472.7,2791.9,105,29957.2,724.8
+Simon_Kalteis_V19-18;#298;Ebene D - 2021-01-29 19.05.32.ndpi,PathAnnotationObject,,Image,Polygon,8631,2211,111,14087,1159.4
+Simon_Kalteis_V19-18;#298;Ebene D - 2021-01-29 19.05.32.ndpi,PathAnnotationObject,,Image,Geometry,8567.5,2371.2,37,5400.8,595.75
+Simon_Kalteis_V19-18;#298;Ebene D - 2021-01-29 19.05.32.ndpi,PathAnnotationObject,,Image,Polygon,8467.1,2439.6,24,3488.8,318.39
+Simon_Kalteis_V19-18;#298;Ebene D - 2021-01-29 19.05.32.ndpi,PathAnnotationObject,,Image,Polygon,8358.3,2530.5,37,4401.7,378.23
+Simon_Kalteis_V19-18;#298;Ebene D - 2021-01-29 19.05.32.ndpi,PathAnnotationObject,,Image,Polygon,8241,2596.8,1,106.21,41.84
+Simon_Kalteis_V19-18;#298;Ebene D - 2021-01-29 19.05.32.ndpi,PathAnnotationObject,,Image,Geometry,8021.8,2691.3,47,7794.4,829.83
+Simon_Kalteis_V19-18;#298;Ebene D - 2021-01-29 19.05.32.ndpi,PathAnnotationObject,,Image,Polygon,7836.3,2747.3,4,258.29,84.13
+Simon_Kalteis_V19-18;#298;Ebene D - 2021-01-29 19.05.32.ndpi,PathAnnotationObject,,Image,Polygon,7735.5,2753.8,15,2357.4,241.53
+Simon_Kalteis_V19-18;#298;Ebene D - 2021-01-29 19.05.32.ndpi,PathAnnotationObject,,Image,Polygon,7360,2769.8,1,399.22,79.8
+Simon_Kalteis_V19-18;#298;Ebene D - 2021-01-29 19.05.32.ndpi,PathAnnotationObject,,Image,Geometry,7419.4,2806.3,173,28788.3,1728.7
+Simon_Kalteis_V19-18;#298;Ebene D - 2021-01-29 19.05.32.ndpi,PathAnnotationObject,,Image,Polygon,7055.4,2851.8,36,9866.4,990.55
+Simon_Kalteis_V19-18;#298;Ebene D - 2021-01-29 19.05.32.ndpi,PathAnnotationObject,,Image,Polygon,5296.5,2780,4,520.98,85.84
+Simon_Kalteis_V19-18;#298;Ebene D - 2021-01-29 19.05.32.ndpi,PathAnnotationObject,,Image,Geometry,6101.4,2858.1,528,113567.4,5940.7
+Simon_Kalteis_V19-18;#298;Ebene D - 2021-01-29 19.05.32.ndpi,PathAnnotationObject,,Image,Polygon,4789,2839.8,28,3450.4,364.28
+Simon_Kalteis_V19-18;#298;Ebene D - 2021-01-29 19.05.32.ndpi,PathAnnotationObject,,Image,Polygon,3984.6,2775.4,9,938,112.68
+Simon_Kalteis_V19-18;#298;Ebene D - 2021-01-29 19.05.32.ndpi,PathAnnotationObject,,Image,Polygon,4083.3,2807.3,6,1332.1,228.41
+Simon_Kalteis_V19-18;#298;Ebene D - 2021-01-29 19.05.32.ndpi,PathAnnotationObject,,Image,Geometry,3806.9,2505.4,28,3108.9,883.98
+Simon_Kalteis_V19-18;#298;Ebene D - 2021-01-29 19.05.32.ndpi,PathAnnotationObject,,Image,Polygon,3537.7,2680.2,32,3419.1,229.12
+Simon_Kalteis_V19-18;#298;Ebene D - 2021-01-29 19.05.32.ndpi,PathAnnotationObject,,Image,Polygon,3100.2,2616.8,9,2399.2,265.39
+Simon_Kalteis_V19-18;#298;Ebene D - 2021-01-29 19.05.32.ndpi,PathAnnotationObject,,Image,Polygon,1720.6,2242.7,14,1775.5,244.98
+Simon_Kalteis_V19-18;#298;Ebene D - 2021-01-29 19.05.32.ndpi,PathAnnotationObject,,Image,Polygon,1899.9,2260.8,32,1748.1,202.31
+Simon_Kalteis_V19-18;#298;Ebene D - 2021-01-29 19.05.32.ndpi,PathAnnotationObject,,Image,Polygon,1935.7,2373.5,118,20936.6,762.44

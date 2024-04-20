@@ -1,0 +1,20 @@
+Image,Name,Class,Parent,ROI,Centroid X µm,Centroid Y µm,Num Detections,Area µm^2,Perimeter µm
+V20-09 A;#104;Ebene C - 2021-01-29 17.16.41.ndpi,PathAnnotationObject,,Image,Polygon,6907.2,3727.8,25,2095.3,247.68
+V20-09 A;#104;Ebene C - 2021-01-29 17.16.41.ndpi,PathAnnotationObject,,Image,Polygon,7049.3,3725.4,16,3672.3,358.38
+V20-09 A;#104;Ebene C - 2021-01-29 17.16.41.ndpi,PathAnnotationObject,,Image,Polygon,6787.6,3672.4,2,320.07,82.7
+V20-09 A;#104;Ebene C - 2021-01-29 17.16.41.ndpi,PathAnnotationObject,,Image,Polygon,6773.7,3624.3,37,8403.3,832.06
+V20-09 A;#104;Ebene C - 2021-01-29 17.16.41.ndpi,PathAnnotationObject,,Image,Geometry,5547.7,3970.7,405,48924.6,1699.6
+V20-09 A;#104;Ebene C - 2021-01-29 17.16.41.ndpi,PathAnnotationObject,,Image,Geometry,4871,4056.8,163,23446.6,762.74
+V20-09 A;#104;Ebene C - 2021-01-29 17.16.41.ndpi,PathAnnotationObject,,Image,Polygon,518.99,3512.5,81,9187.1,920.23
+V20-09 A;#104;Ebene C - 2021-01-29 17.16.41.ndpi,PathAnnotationObject,,Image,Polygon,826.29,3572.8,35,3314.3,397.37
+V20-09 A;#104;Ebene C - 2021-01-29 17.16.41.ndpi,PathAnnotationObject,,Image,Polygon,1136.2,3712.9,801,78571.3,1724.4
+V20-09 A;#104;Ebene C - 2021-01-29 17.16.41.ndpi,PathAnnotationObject,,Image,Polygon,1729.4,3833.2,831,87794.8,2536.4
+V20-09 A;#104;Ebene C - 2021-01-29 17.16.41.ndpi,PathAnnotationObject,,Image,Polygon,2326.2,3973.2,347,27125.3,817.94
+V20-09 A;#104;Ebene C - 2021-01-29 17.16.41.ndpi,PathAnnotationObject,,Image,Polygon,2768.3,3999.5,223,30378.3,1375.5
+V20-09 A;#104;Ebene C - 2021-01-29 17.16.41.ndpi,PathAnnotationObject,,Image,Geometry,3429.2,4064.1,1083,102417.5,2248.7
+V20-09 A;#104;Ebene C - 2021-01-29 17.16.41.ndpi,PathAnnotationObject,,Image,Geometry,3988.3,4107.6,478,32168.5,903.8
+V20-09 A;#104;Ebene C - 2021-01-29 17.16.41.ndpi,PathAnnotationObject,,Image,Polygon,4173.2,4094.6,119,16367.9,738.54
+V20-09 A;#104;Ebene C - 2021-01-29 17.16.41.ndpi,PathAnnotationObject,,Image,Polygon,4546.6,4068.1,71,14532.6,868.54
+V20-09 A;#104;Ebene C - 2021-01-29 17.16.41.ndpi,PathAnnotationObject,,Image,Polygon,5231.3,4029,300,27299.3,1120
+V20-09 A;#104;Ebene C - 2021-01-29 17.16.41.ndpi,PathAnnotationObject,,Image,Polygon,6136.8,3909,1066,106402.8,2140.9
+V20-09 A;#104;Ebene C - 2021-01-29 17.16.41.ndpi,ColorDeconvolution,ColorDeconvolution,Image,Rectangle,3534.4,4037.1,75,7885.5,425.08

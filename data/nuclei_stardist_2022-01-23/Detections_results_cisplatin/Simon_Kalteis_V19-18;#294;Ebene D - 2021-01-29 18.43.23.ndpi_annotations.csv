@@ -1,0 +1,10 @@
+Image,Name,Class,Parent,ROI,Centroid X µm,Centroid Y µm,Num Detections,Area µm^2,Perimeter µm
+Simon_Kalteis_V19-18;#294;Ebene D - 2021-01-29 18.43.23.ndpi,ColorDeconvolution,ColorDeconvolution,Image,Rectangle,28103.7,1977.9,43,16997.2,535.43
+Simon_Kalteis_V19-18;#294;Ebene D - 2021-01-29 18.43.23.ndpi,PathAnnotationObject,,Image,Polygon,24651,3092,16,1408.5,152.06
+Simon_Kalteis_V19-18;#294;Ebene D - 2021-01-29 18.43.23.ndpi,PathAnnotationObject,,Image,Polygon,24647.1,2978.2,11,419.58,74.13
+Simon_Kalteis_V19-18;#294;Ebene D - 2021-01-29 18.43.23.ndpi,PathAnnotationObject,,Image,Geometry,24558.4,3180.2,152,23399.7,3393.5
+Simon_Kalteis_V19-18;#294;Ebene D - 2021-01-29 18.43.23.ndpi,PathAnnotationObject,,Image,Geometry,31629.7,2360.5,799,117545.5,2283.4
+Simon_Kalteis_V19-18;#294;Ebene D - 2021-01-29 18.43.23.ndpi,PathAnnotationObject,,Image,Geometry,30958.4,2085.3,336,66515,1541.4
+Simon_Kalteis_V19-18;#294;Ebene D - 2021-01-29 18.43.23.ndpi,PathAnnotationObject,,Image,Geometry,28284.8,1969.5,1784,343563.8,12433.3
+Simon_Kalteis_V19-18;#294;Ebene D - 2021-01-29 18.43.23.ndpi,PathAnnotationObject,,Image,Geometry,25705.6,2747.1,159,13662.3,1675.4
+Simon_Kalteis_V19-18;#294;Ebene D - 2021-01-29 18.43.23.ndpi,PathAnnotationObject,,Image,Geometry,25220,2602,606,91660.5,4754.5

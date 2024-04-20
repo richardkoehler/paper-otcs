@@ -1,0 +1,18 @@
+Image,Name,Class,Parent,ROI,Centroid X µm,Centroid Y µm,Num Detections,Area µm^2,Perimeter µm
+Simon_Kalteis_V19-18;#297;Ebene C - 2021-01-29 19.24.59.ndpi,PathAnnotationObject,,Image,Geometry,21978.5,4116.1,211,36900.5,1325.7
+Simon_Kalteis_V19-18;#297;Ebene C - 2021-01-29 19.24.59.ndpi,PathAnnotationObject,,Image,Geometry,22343,4051.9,217,40821.1,1195
+Simon_Kalteis_V19-18;#297;Ebene C - 2021-01-29 19.24.59.ndpi,PathAnnotationObject,,Image,Polygon,21664.3,4095.2,28,9158.5,518.53
+Simon_Kalteis_V19-18;#297;Ebene C - 2021-01-29 19.24.59.ndpi,PathAnnotationObject,,Image,Geometry,21249.1,4195,203,35627.8,1260.9
+Simon_Kalteis_V19-18;#297;Ebene C - 2021-01-29 19.24.59.ndpi,PathAnnotationObject,,Image,Geometry,20818.7,4151.5,121,31368.3,987.94
+Simon_Kalteis_V19-18;#297;Ebene C - 2021-01-29 19.24.59.ndpi,PathAnnotationObject,,Image,Polygon,20472.4,4147.8,17,5354.4,484.98
+Simon_Kalteis_V19-18;#297;Ebene C - 2021-01-29 19.24.59.ndpi,PathAnnotationObject,,Image,Polygon,20208.5,4119.2,147,28351.7,776.14
+Simon_Kalteis_V19-18;#297;Ebene C - 2021-01-29 19.24.59.ndpi,PathAnnotationObject,,Image,Polygon,20004.2,4039.2,1,124.29,45.27
+Simon_Kalteis_V19-18;#297;Ebene C - 2021-01-29 19.24.59.ndpi,PathAnnotationObject,,Image,Geometry,19800,3972,14,4651.5,517.42
+Simon_Kalteis_V19-18;#297;Ebene C - 2021-01-29 19.24.59.ndpi,PathAnnotationObject,,Image,Geometry,19486.6,3866.3,76,26091.3,978.17
+Simon_Kalteis_V19-18;#297;Ebene C - 2021-01-29 19.24.59.ndpi,PathAnnotationObject,,Image,Geometry,18957.3,3638,191,34906.4,1179.7
+Simon_Kalteis_V19-18;#297;Ebene C - 2021-01-29 19.24.59.ndpi,PathAnnotationObject,,Image,Polygon,18753.8,3585.8,13,2395.8,212.93
+Simon_Kalteis_V19-18;#297;Ebene C - 2021-01-29 19.24.59.ndpi,PathAnnotationObject,,Image,Polygon,18078.7,2718.7,21,3851,277.33
+Simon_Kalteis_V19-18;#297;Ebene C - 2021-01-29 19.24.59.ndpi,PathAnnotationObject,,Image,Geometry,18006.2,2595.5,28,11129.9,566.39
+Simon_Kalteis_V19-18;#297;Ebene C - 2021-01-29 19.24.59.ndpi,PathAnnotationObject,,Image,Polygon,17952.4,2424.6,30,6278.3,475.11
+Simon_Kalteis_V19-18;#297;Ebene C - 2021-01-29 19.24.59.ndpi,PathAnnotationObject,,Image,Geometry,17460,1722.9,691,127293,3092
+Simon_Kalteis_V19-18;#297;Ebene C - 2021-01-29 19.24.59.ndpi,ColorDeconvolution,ColorDeconvolution,Image,Rectangle,21305.8,4170.1,84,17132.5,542.06
