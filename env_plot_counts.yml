@@ -1,0 +1,9 @@
+name: paper-otcs-plot-counts
+channels:
+  - conda-forge
+dependencies:
+  - matplotlib
+  - pandas
+  - python==3.12
+  - pip
+  - seaborn==0.13
