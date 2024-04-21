@@ -12,7 +12,7 @@ import plot_quantification
 def plot_cell_counts_rel() -> None:
     """Main function of this script."""
     data_qupath = Path(__file__).parents[1] / "data" / "nuclei_stardist_2022-01-23"
-    plot_dir = Path(__file__).parent / "plots"
+    plot_dir = Path(__file__).parents[1] / "plots"
     plot_dir.mkdir(exist_ok=True)
 
     plotting_settings.activate()
