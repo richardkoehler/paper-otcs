@@ -15,7 +15,7 @@ dedicated GPU. The main Python code for analyses can be found in the [_code_pyth
 
 Code for exporting and handling annotations and detections from QuPath were written in Groovy. The corresponding code can be found in the folder [_code_qupath-groovy_](code_qupath-groovy/).
 
-### Stardist models
+### StarDist models
 
 The pretrained StarDist model used for nucleus detection in Hematoxylin and eosin stained sections can be found in the folder [_models_stardist_](models_stardist/).
 
